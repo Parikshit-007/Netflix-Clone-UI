@@ -1,0 +1,9 @@
+.box {
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+}
+
+.iconLink {
+    margin-right: 1rem;
+}
